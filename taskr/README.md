@@ -1,4 +1,4 @@
-# Taskr — React Gold Edition
+# Taskr 2.0 — React Gold Edition
 
 Taskr has evolved. Originally built as a vanilla HTML/CSS/JS project, this version is a complete rewrite using **React**. It moves away from direct DOM manipulation to a modern, state-driven architecture, featuring a refined "Gold Edition" aesthetic.
 
