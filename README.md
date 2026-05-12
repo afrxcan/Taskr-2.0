@@ -72,6 +72,7 @@ npm run build
 ## 🤝 Credits
 
 **Ernest** — Lead Developer
+
 **Claude by Anthropic** - AI assistant
 
 Rewrote the logic from the ground up to move from vanilla JS to React during my IT course (Jan–Jul 2026).
