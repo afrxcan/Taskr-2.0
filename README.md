@@ -24,7 +24,7 @@ This version introduces several "Gold Edition" features that weren't possible in
 ## 📂 Project Structure
 
 ```text
-task-manager-react/
+Taskr-2.0/
 ├── src/
 │   ├── App.jsx        → Main layout and high-level logic
 │   ├── Taskr.jsx      → The core Taskr component (state, handlers, modal)
